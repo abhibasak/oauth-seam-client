@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsFeed xmlns="http://oauth.seam.tcs.com/oauth-seam-test-newsfeed">
+    <category>sports</category>
+    <description>Brazil will conduct the next WorldCup.</description>
+</newsFeed>
